@@ -1,0 +1,51 @@
+﻿ID,NAME,LENGTH,GENRE,RATING,RATERS
+M01,Your Name,106,Romance,4.2,253000
+M02,Scott Pilgrim vs. the World,112,Action,3.7,417000
+M03,A Quiet Place,90,Horror,3.7,509000
+M04,Star Wars: Episode IV,121,Science fiction,4.3,1300000
+M05,Spider-Man 2,127,Action,3.7,636000
+M06,It,135,Horror,3.6,519000
+M07,Dune,155,Science fiction,4,578000
+M08,Marriage Story,137,Drama,3.9,296000
+M09,Pulp Fiction,154,Drama,4.4,2000000
+M10,Matrix,136,Action,4.3,1900000
+M11,Psycho,109,Thriller,4.2,655000
+M12,Parasite,132,Thriller,4.2,750000
+M13,The Lion King,88,Animation,4.2,1000000
+M14,Gladiator,155,Action,4.2,1500000
+M15,The Shining,146,Horror,4.2,989000
+M16,The Exorcist,122,Horror,4,394000
+M17,Joker,122,Thriller,4.2,1200000
+M18,The Godfather,175,Drama,4.6,1800000
+M19,The Dark Night,152,Action,4.5,2600000
+M20,La La Land,128,Drama,4,568000
+M21,Forrest Gump,142,Drama,4.4,2000000
+M22,Jaws,124,Thriller,4,586000
+M23,Bird Box,124,Horror,3.3,327000
+M24,Morbius,104,Action,2.5,75000
+M25,Jurassic Park,127,Action,4.1,952000
+M26,Harry Potter and the Sorcerer's Stone,152,Adventure,3.8,755000
+M27,Encanto,102,Animation,3.6,201000
+M28,Avengers: Endgame,181,Action,4.2,1100000
+M29,The Batman,176,Action,3.9,506000
+M30,Top Gun: Maverick,130,Action,4.3,139000
+M31,Aquaman,143,Action,3.4,456000
+M32,Avatar,162,Science fiction,3.9,1200000
+M33,Turning Red,100,Animation,3.5,99000
+M34,Ghostbusters,105,Action,3.9,406000
+M35,The Wolf of Wall Street,180,Comedy,4.1,1300000
+M36,Sing,108,Animation,3.5,163000
+M37,The Grand Budapest Hotel,99,Comedy,4,784000
+M38,Spider-Man: Into the Spider-Verse,117,Animation,4.2,495000
+M39,Clueless,97,Comedy,3.4,210000
+M40,The Breakfast Club,97,Comedy,3.9,388000
+M41,Titanic,194,Romance,3.9,1100000
+M42,Midsommar,148,Horror,3.5,290000
+M43,Whiplash,106,Drama,4.2,814000
+M44,Blade Runner 2049,104,Science fiction,4,544000
+M45,Interstellar,169,Science fiction,4.3,1700000
+M46,Knives Out,130,Crime,3.9,594000
+M47,Dead Poets Society,128,Drama,4,474000
+M48,Murder on the Orient Express,114,Crime,3.2,250000
+M49,The Silence of the Lambs,118,Crime,4.3,1400000
+M50,Baby Driver,113,Action,3.8,515000
